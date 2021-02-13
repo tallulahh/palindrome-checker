@@ -1,0 +1,28 @@
+body {
+  background-color: #03011f;
+  font-family: "Source Sans Pro";
+  color: #6cacc5;
+  text-align: center;
+}
+
+input, button {
+  font-size: 20px;
+  font-family: "Source Sans Pro";
+  padding: 5px;
+}
+
+input {
+  margin: 40px;
+  text-align: center;
+}
+
+button {
+  background: rgba(42,50,113, .28);
+  border: 2px solid ;
+  color: #6cacc5;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgba(42,50,113, .5);
+}
